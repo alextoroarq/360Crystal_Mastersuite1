@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" start="node1" apprev="18080">
+  <panorama id="node1">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="152.626">
+      <start tilt="0" projection="4" fov="75" pan="148"/>
+      <flyin tilt="-1.72" projection="4" fov="37.6" pan="148.06"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node1" comment="" datetime="" copyright="" source="" info="" title="Acceso" customnodeid="" description="" tags="03-Suite-03" author="" latitude="0.00000000" longitude="0.00000000" heading="152.626">
+      <mapcoords x_floorplan_percent="68.6643" y_floorplan_percent="26.4861" x="1.58134" y="-0.691452" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-28.73" url="{node3}" skinid="ht_node" id="Point01" target="150.4/0.9/60.0" title="Cocina" description="" pan="-251.32"/>
+      <hotspot tilt="-39.1" url="{node2}" skinid="ht_node" id="Point02" target="-42.9/0.1/75.0" title="Baño Social" description="" pan="-84.41"/>
+      <hotspot tilt="-30.95" url="{node4}" skinid="ht_node" id="Point03" target="-39.4/0.9/60.0" title="Salon" description="" pan="-179.09"/>
+      <hotspot tilt="-37.32" url="{node7}" skinid="ht_node" id="Point04" target="31.6/2.0/83.2" title="Ropas " description="" pan="-329.37"/>
+      <hotspot tilt="-16.85" url="{node17}" skinid="ht_node" id="Point05" target="-59.6/-0.1/67.4" title="Alcoba " description="" pan="-170.19"/>
+      <hotspot tilt="-9.63" url="{node6}" skinid="ht_node" id="Point06" target="165.8/-1.0/60.0" title="Balcon" description="" pan="-201.1"/>
+      <hotspot tilt="-10.22" url="{node18}" skinid="ht_node" id="Point07" target="-136.1/-1.4/75.0" title="Alcoba " description="" pan="-171.68"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-203.896">
+      <start tilt="0" projection="4" fov="75" pan="-178"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="85" pan="360"/>
+    </view>
+    <userdata nodeid="node3" comment="" datetime="" copyright="" source="" info="" title="Cocina" customnodeid="" description="" tags="03-Suite-03" author="" latitude="0.00000000" longitude="0.00000000" heading="-203.896">
+      <mapcoords x_floorplan_percent="47.4061" y_floorplan_percent="33.5087" x="1.09177" y="-0.874786" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-28.59" url="{node1}" skinid="ht_node" id="Point01" target="-55.3/-0.6/75.0" title="Acceso" description="" pan="-66.05"/>
+      <hotspot tilt="-18.46" url="{node2}" skinid="ht_node" id="Point02" target="-33.2/1.0/74.3" title="Baño Social" description="" pan="-74.73"/>
+      <hotspot tilt="-16.04" url="{node9}" skinid="ht_node" id="Point03" target="-150.8/-0.2/60.0" title="Sala" description="" pan="-162.89"/>
+      <hotspot tilt="-11.04" url="{node6}" skinid="ht_node" id="Point04" target="-152.3/0.0/75.0" title="Balcon" description="" pan="-185.84"/>
+      <hotspot tilt="-13.32" url="{node10}" skinid="ht_node" id="Point05" target="-177.6/0.1/70.2" title="Sala " description="" pan="-197.95"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-200.319">
+      <start tilt="0" projection="4" fov="75" pan="-47"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="-132"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="150"/>
+    </view>
+    <userdata nodeid="node2" comment="" datetime="" copyright="" source="" info="" title="Baño Social" customnodeid="" description="" tags="03-Suite-03" author="" latitude="0.00000000" longitude="0.00000000" heading="-200.319">
+      <mapcoords x_floorplan_percent="83.065" y_floorplan_percent="27.0384" x="1.91299" y="-0.705872" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-43.75" url="{node1}" skinid="ht_node" id="Point01" target="92.9/-0.4/58.3" title="Acceso" description="" pan="-269.82"/>
+      <hotspot tilt="-18.53" url="{node3}" skinid="ht_node" id="Point02" target="92.5/0.5/75.0" title="Cocina" description="" pan="-261.17"/>
+      <hotspot tilt="0" url="{node4}" skinid="ht_node" id="Point03" target="-56.2317/0/75" title="Salon" description="" pan="-200.319"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-202.765">
+      <start tilt="0" projection="4" fov="75" pan="22"/>
+      <flyin tilt="-23.13" projection="4" fov="75" pan="-154.72"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node7" comment="" datetime="" copyright="" source="" info="" title="Ropas " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-202.765">
+      <mapcoords x_floorplan_percent="59.7794" y_floorplan_percent="13.414" x="1.37672" y="-0.350189" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-41.05" url="{node1}" skinid="ht_node" id="Point01" target="" title="Acceso" description="" pan="-151.66"/>
+      <hotspot tilt="-19.58" url="{node4}" skinid="ht_node" id="Point02" target="" title="Salon" description="" pan="-165.46"/>
+      <hotspot tilt="-12.5" url="{node17}" skinid="ht_node" id="Point03" target="-51.5/-0.1/75.0" title="Alcoba " description="" pan="-163.58"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-50.442">
+      <start tilt="0" projection="4" fov="75" pan="-47"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node4" comment="" datetime="" copyright="" source="" info="" title="Salon" customnodeid="" description="" tags="03-Suite-03" author="" latitude="0.00000000" longitude="0.00000000" heading="-50.442">
+      <mapcoords x_floorplan_percent="68.9624" y_floorplan_percent="43.3982" x="1.58821" y="-1.13297" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-28.93" url="{node1}" skinid="ht_node" id="Point01" target="33.8/-0.1/70.2" title="Acceso" description="" pan="-195.24"/>
+      <hotspot tilt="-9.07" url="{node3}" skinid="ht_node" id="Point02" target="30.7/-0.9/57.2" title="Cocina" description="" pan="-143.88"/>
+      <hotspot tilt="-10.38" url="{node6}" skinid="ht_node" id="Point03" target="176.0/0.7/70.2" title="Balcon" description="" pan="-52.71"/>
+      <hotspot tilt="-25.32" url="{node8}" skinid="ht_node" id="Point04" target="-36.1/-1.8/70.2" title="Salon" description="" pan="-84.32"/>
+      <hotspot tilt="-27.06" url="{node17}" skinid="ht_node" id="Point05" target="-57.6/-0.9/70.2" title="Alcoba " description="" pan="-8.17"/>
+      <hotspot tilt="-17.28" url="{node7}" skinid="ht_node" id="Point07" target="21.6/-0.5/83.2" title="Ropas " description="" pan="-186.82"/>
+      <hotspot tilt="-12.27" url="{node18}" skinid="ht_node" id="Point08" target="-140.9/0.7/75.0" title="Alcoba " description="" pan="-12.61"/>
+      <hotspot tilt="-14.03" url="{node10}" skinid="ht_node" id="Point09" target="165.8/0.1/64.1" title="Sala " description="" pan="-73.14"/>
+      <hotspot tilt="-16.31" url="{node12}" skinid="ht_node" id="Point10" target="48.5/-0.5/70.2" title="Alcoba " description="" pan="-102.3"/>
+      <hotspot tilt="-12.38" url="{node11}" skinid="ht_node" id="Point11" target="106.1/0.3/64.1" title="Alcoba " description="" pan="-107.36"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-181.873">
+      <start tilt="0" projection="4" fov="75" pan="-101"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node6" comment="" datetime="4/03/2022 9:20 a. m." copyright="" source="" info="" title="Balcon" customnodeid="" description="" tags="03-Suite-03" author="" latitude="" longitude="" heading="-181.873">
+      <mapcoords x_floorplan_percent="36.5832" y_floorplan_percent="89.4266" x="0.842514" y="-2.33459" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-30.95" url="{node5}" skinid="ht_node" id="Point01" target="42.7/-3.7/70.0" title="Balcon" description="" pan="-267.15"/>
+      <hotspot tilt="-11.44" url="{node4}" skinid="ht_node" id="Point02" target="-174.3/0.2/75.0" title="Salon" description="" pan="-4.93"/>
+      <hotspot tilt="-15.75" url="{node8}" skinid="ht_node" id="Point03" target="-174.9/-3.3/60.0" title="Salon" description="" pan="-351.51"/>
+      <hotspot tilt="-15.85" url="{node9}" skinid="ht_node" id="Point04" target="-5.4/-0.6/60.0" title="Sala" description="" pan="-20.29"/>
+      <hotspot tilt="-19.66" url="{node10}" skinid="ht_node" id="Point05" target="0.0/0.0/60.0" title="Sala " description="" pan="-332.35"/>
+      <hotspot tilt="-60.77" url="" skinid="ht_url" id="Point06" target="_blank" title="" description="" pan="-206.4"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="153.649">
+      <start tilt="0" projection="4" fov="75" pan="-55"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node5" comment="" datetime="" copyright="" source="" info="" title="Balcon" customnodeid="" description="" tags="03-Suite-03" author="" latitude="" longitude="" heading="153.649">
+      <mapcoords x_floorplan_percent="16.607" y_floorplan_percent="82.7196" x="0.382462" y="-2.1595" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-30.46" url="{node6}" skinid="ht_node" id="Point01" target="-60.8/0.8/64.1" title="Balcon" description="" pan="-110.37"/>
+      <hotspot tilt="-9.84" url="{node4}" skinid="ht_node" id="Point02" target="-174.9/0.0/75.0" title="Salon" description="" pan="-49.13"/>
+      <hotspot tilt="-13.29" url="{node8}" skinid="ht_node" id="Point03" target="151.6/-2.2/60.0" title="Salon" description="" pan="-45.33"/>
+      <hotspot tilt="-24.48" url="{node10}" skinid="ht_node" id="Point05" target="-30.8/0.3/60.0" title="Sala " description="" pan="-45.9"/>
+      <hotspot tilt="-16.84" url="{node11}" skinid="ht_node" id="Point06" target="3.7/0.0/60.0" title="Alcoba " description="" pan="-6.89"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-18.1322">
+      <start tilt="0" projection="4" fov="75" pan="-20"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node8" comment="" datetime="" copyright="" source="" info="" title="Salon" customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-18.1322">
+      <mapcoords x_floorplan_percent="49.7615" y_floorplan_percent="52.4987" x="1.14601" y="-1.37054" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-29.11" url="{node4}" skinid="ht_node" id="Point01" target="-19.2/0.6/60.0" title="Salon" description="" pan="-235.2"/>
+      <hotspot tilt="-29.85" url="{node9}" skinid="ht_node" id="Point02" target="165.1/-0.1/61.3" title="Sala" description="" pan="-330.38"/>
+      <hotspot tilt="-28.37" url="{node10}" skinid="ht_node" id="Point03" target="166.8/0.4/64.1" title="Sala " description="" pan="-36.1"/>
+      <hotspot tilt="-16.05" url="{node6}" skinid="ht_node" id="Point04" target="-151.3/-2.8/60.0" title="Balcon" description="" pan="-12.22"/>
+      <hotspot tilt="-12.61" url="{node5}" skinid="ht_node" id="Point05" target="162.7/-0.1/75.0" title="Balcon" description="" pan="-40.35"/>
+      <hotspot tilt="-13.55" url="{node3}" skinid="ht_node" id="Point06" target="5.4/0.0/75.0" title="Cocina" description="" pan="-174.24"/>
+      <hotspot tilt="-37.33" url="{node12}" skinid="ht_node" id="Point07" target="0.0/0.0/64.1" title="Alcoba " description="" pan="-101.91"/>
+      <hotspot tilt="-24.23" url="{node11}" skinid="ht_node" id="Point08" target="62.6/0.3/61.5" title="Alcoba " description="" pan="-100.48"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-231.789">
+      <start tilt="0" projection="4" fov="75" pan="110"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node9" comment="" datetime="" copyright="" source="" info="" title="Sala" customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-231.789">
+      <mapcoords x_floorplan_percent="58.9744" y_floorplan_percent="68.6481" x="1.35818" y="-1.79214" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-26.83" url="{node8}" skinid="ht_node" id="Point01" target="-134.4/-1.2/58.3" title="Salon" description="" pan="5.72"/>
+      <hotspot tilt="-22.1" url="{node6}" skinid="ht_node" id="Point03" target="-179.1/0.5/70.2" title="Balcon" description="" pan="-246.73"/>
+      <hotspot tilt="-24.87" url="{node10}" skinid="ht_node" id="Point02" target="103.0/-1.0/60.0" title="Sala " description="" pan="-296.66"/>
+      <hotspot tilt="-13.94" url="{node1}" skinid="ht_node" id="Point04" target="34.7/0.7/70.2" title="Acceso" description="" pan="-30.96"/>
+      <hotspot tilt="-15.13" url="{node5}" skinid="ht_node" id="Point05" target="154.4/-6.2/75.0" title="Balcon" description="" pan="-270.85"/>
+      <hotspot tilt="-18.8" url="{node12}" skinid="ht_node" id="Point06" target="-6.2/-0.3/64.1" title="Alcoba " description="" pan="-333.29"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-197.065">
+      <start tilt="0" projection="4" fov="75" pan="-30"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node10" comment="" datetime="" copyright="" source="" info="" title="Sala " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-197.065">
+      <mapcoords x_floorplan_percent="35.3608" y_floorplan_percent="66.3072" x="0.814362" y="-1.73103" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-27.37" url="{node9}" skinid="ht_node" id="Point01" target="-82.4/0.5/70.2" title="Sala" description="" pan="-88.92"/>
+      <hotspot tilt="-29.9" url="{node8}" skinid="ht_node" id="Point02" target="-175.4/-0.0/64.1" title="Salon" description="" pan="-33.22"/>
+      <hotspot tilt="-26.49" url="{node6}" skinid="ht_node" id="Point03" target="-118.1/1.6/70.2" title="Balcon" description="" pan="-167.31"/>
+      <hotspot tilt="-26.3" url="{node5}" skinid="ht_node" id="Point04" target="174.1/-0.4/75.0" title="Balcon" description="" pan="-215.48"/>
+      <hotspot tilt="-17.24" url="{node4}" skinid="ht_node" id="Point05" target="-179.2/-0.5/75.0" title="Salon" description="" pan="-42.22"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-261.865">
+      <start tilt="0" projection="4" fov="75" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node12" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-261.865">
+      <mapcoords x_floorplan_percent="34.3769" y_floorplan_percent="47.9748" x="0.791702" y="-1.25244" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-40.2" url="{node11}" skinid="ht_node" id="Point01" target="113.4/0.5/70.2" title="Alcoba " description="" pan="-330.44"/>
+      <hotspot tilt="-18.85" url="{node4}" skinid="ht_node" id="Point02" target="-179.1/-0.8/67.1" title="Salon" description="" pan="-137.81"/>
+      <hotspot tilt="-37.9" url="{node8}" skinid="ht_node" id="Point03" target="45.0/0.2/70.2" title="Salon" description="" pan="-169.32"/>
+      <hotspot tilt="-18.69" url="{node9}" skinid="ht_node" id="Point04" target="166.7/-0.8/70.2" title="Sala" description="" pan="-190.43"/>
+      <hotspot tilt="-22.66" url="{node13}" skinid="ht_node" id="Point05" target="27.0/0.2/64.1" title="Alcoba " description="" pan="-39.25"/>
+      <hotspot tilt="-14.51" url="{node3}" skinid="ht_node" id="Point06" target="-25.8/1.2/75.0" title="Cocina" description="" pan="-94.31"/>
+      <hotspot tilt="-17.56" url="{node14}" skinid="ht_node" id="Point07" target="58.0/0.0/75.0" title="Baño " description="" pan="-44.74"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-210.164">
+      <start tilt="0" projection="4" fov="60" pan="44"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node11" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-210.164">
+      <mapcoords x_floorplan_percent="18.6941" y_floorplan_percent="46.7123" x="0.430527" y="-1.21948" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-18.25" url="{node5}" skinid="ht_node" id="Point01" target="175.4/0.8/64.1" title="Balcon" description="" pan="-184.24"/>
+      <hotspot tilt="-14.64" url="{node4}" skinid="ht_node" id="Point02" target="-53.2/0.2/75.0" title="Salon" description="" pan="-86.66"/>
+      <hotspot tilt="-24.86" url="{node8}" skinid="ht_node" id="Point03" target="96.2/-1.9/75.0" title="Salon" description="" pan="-103.4"/>
+      <hotspot tilt="-41.82" url="{node12}" skinid="ht_node" id="Point04" target="-141.1/-1.3/64.1" title="Alcoba " description="" pan="-99.47"/>
+      <hotspot tilt="-24.92" url="{node13}" skinid="ht_node" id="Point05" target="-16.2/-0.1/75.0" title="Alcoba " description="" pan="-14.11"/>
+      <hotspot tilt="-18.95" url="{node14}" skinid="ht_node" id="Point06" target="-1.0/-8.2/75.0" title="Baño " description="" pan="-11.36"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-204.501">
+      <start tilt="0" projection="4" fov="75" pan="143"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node13" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-204.501">
+      <mapcoords x_floorplan_percent="25.969" y_floorplan_percent="22.4619" x="0.598068" y="-0.586395" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-23.39" url="{node12}" skinid="ht_node" id="Point01" target="168.4/1.1/60.0" title="Alcoba " description="" pan="-163.85"/>
+      <hotspot tilt="-21.96" url="{node11}" skinid="ht_node" id="Point02" target="154.5/-1.9/61.5" title="Alcoba " description="" pan="-191.36"/>
+      <hotspot tilt="-10.69" url="{node5}" skinid="ht_node" id="Point03" target="164.0/0.9/75.0" title="Balcon" description="" pan="-187.21"/>
+      <hotspot tilt="-52.86" url="{node14}" skinid="ht_node" id="Point04" target="-0.7/-1.6/64.1" title="Baño " description="" pan="-360"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="159.68">
+      <start tilt="0" projection="4" fov="75" pan="58"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node14" comment="" datetime="" copyright="" source="" info="" title="Baño " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="159.68">
+      <mapcoords x_floorplan_percent="28.2946" y_floorplan_percent="14.6502" x="0.651627" y="-0.382462" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-58.79" url="{node13}" skinid="ht_node" id="Point01" target="144.9/0.6/70.4" title="Alcoba " description="" pan="-183.41"/>
+      <hotspot tilt="-15.86" url="{node11}" skinid="ht_node" id="Point02" target="161.4/-0.6/60.0" title="Alcoba " description="" pan="-190.15"/>
+      <hotspot tilt="-17.99" url="{node12}" skinid="ht_node" id="Point03" target="168.7/-0.2/60.0" title="Alcoba " description="" pan="-169.23"/>
+      <hotspot tilt="-41.77" url="{node15}" skinid="ht_node" id="Point04" target="-33.7/-1.1/64.1" title="Vestier " description="" pan="-79.49"/>
+      <hotspot tilt="-46.33" url="{node16}" skinid="ht_node" id="Point05" target="26.6/-0.3/70.2" title="Baño" description="" pan="-296.23"/>
+      <hotspot tilt="-9.38" url="{node5}" skinid="ht_node" id="Point06" target="159.5/-2.0/75.0" title="Balcon" description="" pan="-186.97"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="145.112">
+      <start tilt="0" projection="4" fov="75" pan="-40"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node15" comment="" datetime="" copyright="" source="" info="" title="Vestier " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="145.112">
+      <mapcoords x_floorplan_percent="40.2206" y_floorplan_percent="13.0721" x="0.926285" y="-0.341263" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-39.94" url="{node14}" skinid="ht_node" id="Point01" target="71.3/-1.6/60.0" title="Baño " description="" pan="-262.59"/>
+      <hotspot tilt="-24.68" url="{node16}" skinid="ht_node" id="Point02" target="26.4/-0.1/70.2" title="Baño" description="" pan="-278.93"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="189.204">
+      <start tilt="0" projection="4" fov="75" pan="-42"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node16" comment="" datetime="" copyright="" source="" info="" title="Baño" customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="189.204">
+      <mapcoords x_floorplan_percent="15.5039" y_floorplan_percent="10.7575" x="0.357056" y="-0.280838" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-26.99" url="{node15}" skinid="ht_node" id="Point01" target="-70.5/0.3/64.1" title="Vestier " description="" pan="-94.65"/>
+      <hotspot tilt="-46.81" url="{node14}" skinid="ht_node" id="Point02" target="-59.6/-0.1/64.1" title="Baño " description="" pan="-109.64"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-115.443">
+      <start tilt="0" projection="4" fov="75" pan="-45"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node17" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-115.443">
+      <mapcoords x_floorplan_percent="72.9875" y_floorplan_percent="61.1257" x="1.68091" y="-1.59576" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-31.62" url="{node4}" skinid="ht_node" id="Point01" target="177.5/0.3/64.1" title="Salon" description="" pan="-260.3"/>
+      <hotspot tilt="-16.93" url="{node1}" skinid="ht_node" id="Point02" target="34.0/-0.1/70.2" title="Acceso" description="" pan="-265.04"/>
+      <hotspot tilt="-22.7" url="{node18}" skinid="ht_node" id="Point03" target="-143.0/-0.6/70.2" title="Alcoba " description="" pan="-86.69"/>
+      <hotspot tilt="-41.45" url="{node20}" skinid="ht_node" id="Point04" target="-96.4/0.7/70.2" title="Alcoba " description="" pan="-8.06"/>
+      <hotspot tilt="-19.4" url="{node19}" skinid="ht_node" id="Point05" target="169.0/-1.8/76.6" title="Alcoba " description="" pan="-59.82"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-195.908">
+      <start tilt="0" projection="4" fov="75" pan="-17"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node18" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-195.908">
+      <mapcoords x_floorplan_percent="75.3727" y_floorplan_percent="88.0589" x="1.73584" y="-2.29889" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-22.56" url="{node17}" skinid="ht_node" id="Point01" target="95.0/0.7/60.0" title="Alcoba " description="" pan="-341.25"/>
+      <hotspot tilt="-14.27" url="{node4}" skinid="ht_node" id="Point02" target="-179.6/0.2/64.1" title="Salon" description="" pan="-337.28"/>
+      <hotspot tilt="-37.75" url="{node19}" skinid="ht_node" id="Point03" target="-46.6/-0.9/70.2" title="Alcoba " description="" pan="-71.37"/>
+      <hotspot tilt="-17.41" url="{node21}" skinid="ht_node" id="Point04" target="-35.3/-2.1/75.0" title="Vestier" description="" pan="-0.99"/>
+      <hotspot tilt="-10.38" url="{node1}" skinid="ht_node" id="Point05" target="36.8/-1.8/64.1" title="Acceso" description="" pan="-338.58"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-230.843">
+      <start tilt="0" projection="4" fov="75" pan="16"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node19" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-230.843">
+      <mapcoords x_floorplan_percent="90.9064" y_floorplan_percent="87.4277" x="2.09358" y="-2.28241" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-35.6" url="{node18}" skinid="ht_node" id="Point01" target="175.4/0.5/70.2" title="Alcoba " description="" pan="-274.34"/>
+      <hotspot tilt="-15.66" url="{node17}" skinid="ht_node" id="Point02" target="105.6/-1.5/70.2" title="Alcoba " description="" pan="-342.43"/>
+      <hotspot tilt="-16.02" url="{node21}" skinid="ht_node" id="Point04" target="-6.1/0.8/75.0" title="Vestier" description="" pan="-3.55"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-210.985">
+      <start tilt="0" projection="4" fov="75" pan="151"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node20" comment="" datetime="" copyright="" source="" info="" title="Alcoba " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-210.985">
+      <mapcoords x_floorplan_percent="88.1634" y_floorplan_percent="63.4666" x="2.03041" y="-1.65688" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-36.49" url="{node17}" skinid="ht_node" id="Point01" target="-65.6/-0.1/60.0" title="Alcoba " description="" pan="-283.82"/>
+      <hotspot tilt="-19.17" url="{node18}" skinid="ht_node" id="Point02" target="-162.2/0.2/76.6" title="Alcoba " description="" pan="-206.48"/>
+      <hotspot tilt="-20.39" url="{node19}" skinid="ht_node" id="Point03" target="173.0/-2.5/70.2" title="Alcoba " description="" pan="-173.74"/>
+      <hotspot tilt="-44.51" url="{node21}" skinid="ht_node" id="Point04" target="-19.3/-0.9/75.0" title="Vestier" description="" pan="-357.59"/>
+      <hotspot tilt="-22.49" url="{node22}" skinid="ht_node" id="Point05" target="69.9/0.8/76.6" title="Baño " description="" pan="-359.85"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="144.054">
+      <start tilt="0" projection="4" fov="75" pan="-55"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node21" comment="" datetime="" copyright="" source="" info="" title="Vestier" customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="144.054">
+      <mapcoords x_floorplan_percent="86.6428" y_floorplan_percent="53.5771" x="1.99539" y="-1.3987" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-51.68" url="{node20}" skinid="ht_node" id="Point01" target="178.6/1.8/70.2" title="Alcoba " description="" pan="-186.54"/>
+      <hotspot tilt="-17.13" url="{node19}" skinid="ht_node" id="Point02" target="170.3/-2.4/76.6" title="Alcoba " description="" pan="-183.64"/>
+      <hotspot tilt="-16.33" url="{node18}" skinid="ht_node" id="Point03" target="-178.1/0.1/76.6" title="Alcoba " description="" pan="-207.4"/>
+      <hotspot tilt="-38.73" url="{node22}" skinid="ht_node" id="Point04" target="50.3/-1.0/75.7" title="Baño " description="" pan="-6.58"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="2048" levelingroll="0" width="2048" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-193.573">
+      <start tilt="0" projection="4" fov="75" pan="153"/>
+      <flyin tilt="-90" projection="9" fov="75" pan="0"/>
+      <min tilt="-90" fov="30" pan="0"/>
+      <max tilt="60" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata nodeid="node22" comment="" datetime="" copyright="" source="" info="" title="Baño " customnodeid="" description="" tags="Sebastian M" author="" latitude="" longitude="" heading="-193.573">
+      <mapcoords x_floorplan_percent="86.2254" y_floorplan_percent="41.0047" x="1.98578" y="-1.07048" mapid="PlanoSuite3"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" background="1" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-41.51" url="{node21}" skinid="ht_node" id="Point01" target="169.3/-0.2/76.6" title="Vestier" description="" pan="-170.55"/>
+      <hotspot tilt="-26.25" url="{node20}" skinid="ht_node" id="Point02" target="159.0/-0.3/60.0" title="Alcoba " description="" pan="-169.04"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0xffffff" zoomfov="20" blendtime="0.8" zoomafteroutfov="20" zoomspeed="4" type="irisroundcenter" zoomoutpause="1" zoomin="0" softedge="1000" enabled="1" zoomafterinfov="90" zoomout="0"/>
+    <autorotate delay="5.00" startloaded="0" noderandom="1" useanimation="0" nodedelay="0.00" returntohorizon="1.000" enabled="1" speed="0.150" nodefilter=""/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" hideabout="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" comment="" datetime="" copyright="" source="" info="" title="" customnodeid="" description="" tags="" author="" latitude="" longitude="" heading="0"/>
+  </masternode>
+  <map height="3802" transparent="1" width="3354" zoomlevels="1" type="file" id="PlanoSuite3" floorplannorth="205.7" title="" tileformat="png" bgcolor="rgba(255, 255, 255, 0)"/>
+</tour>
